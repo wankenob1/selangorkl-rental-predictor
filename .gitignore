@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code config
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.joblib
+*.pkl
