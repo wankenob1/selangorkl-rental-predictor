@@ -43,7 +43,7 @@ mudah-apartment-price-predictor/
 
 ```bash
 git clone https://github.com/wankenob1/selangorkl-rental-predictor
-cd mudah-apartment-price-predictor
+cd selangorkl-rental-predictor
 ```
 
 ### 2. Create and Activate Virtual Environment
