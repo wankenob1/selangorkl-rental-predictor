@@ -42,7 +42,7 @@ mudah-apartment-price-predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mudah-apartment-price-predictor.git
+git clone https://github.com/wankenob1/selangorkl-rental-predictor
 cd mudah-apartment-price-predictor
 ```
 
